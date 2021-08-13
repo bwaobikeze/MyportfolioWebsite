@@ -1,0 +1,11 @@
+.hero-container{
+
+    /* background: url() center center/cover
+    no-repeat; */
+    height: 100vh;
+    width: 200%;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000 rgba(0,0,0,0.2);
+    object-fit: contain;
+}
